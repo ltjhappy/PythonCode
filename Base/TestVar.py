@@ -1,0 +1,2 @@
+name = "ucs"
+print(name)
