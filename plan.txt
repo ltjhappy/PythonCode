@@ -1,0 +1,17 @@
+
+1, prometheus监控
+   node监控：cpu,磁盘，内存，网络；组件：apiserver,kubelet,docker
+   应用监控：pod资源，内存，重启
+
+2，日志系统ELK
+   Elasticsearch，理解，集群
+
+3，kubernetes 面试问题
+
+4，helm 
+
+5, 网络
+
+6，Istio
+
+7, 故障排除总结
